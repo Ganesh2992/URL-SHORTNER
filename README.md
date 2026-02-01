@@ -1,15 +1,5 @@
-# 📘 Project Requirements – URL Shortener API
-
-## ✅ Prerequisites
-
-Make sure you have the following installed on your system:
-
-- [Node.js](https://nodejs.org/) (v18 or above recommended)
-- [Docker Desktop](https://www.docker.com/products/docker-desktop/)
-- [Postman](https://www.postman.com/)
-- A code editor (e.g., [VS Code](https://code.visualstudio.com/))
-
----
+ URL Shortener
+ 
 ## 🧱 Tech Stack Overview
 
 | Category        | Technology       | Purpose                              |
